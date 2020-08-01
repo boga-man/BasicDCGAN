@@ -28,8 +28,8 @@ are from the original research paper (due to  Radford er al,
 "*Unsupervised Representation Learning with Deep Convolutional Generative Adversial Networks*",
  ICLR 2016GANs ) of DCGANs [here](https://arxiv.org/pdf/1511.06434.pdf) 
 
-You can learn more about DCGANs from the guided project [Generate Synthetic Images with DCGANs in Keras]
-(https://www.coursera.org/projects/generative-adversarial-networks-keras)
+You can learn more about DCGANs from the guided project [Generate Synthetic Images with DCGANs in Keras](
+https://www.coursera.org/projects/generative-adversarial-networks-keras)
 
 By **[Manoj Boganadham](https://github.com/ManojBoganadham)**
 
