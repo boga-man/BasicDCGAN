@@ -14,8 +14,6 @@ These models contain two sub-models. <br>
 
 - **D -> Discriminator** is a convolutional network too.
 
-<img src='https://www.bing.com/images/search?view=detailV2&ccid=s8nnfyFk&id=23ED777F99ACB93DADC80A7B7FC39E6ABEDB3D3A&thid=OIP.s8nnfyFk45gDWp9kox-HxwHaCq&mediaurl=https%3a%2f%2fwww.researchgate.net%2fpublication%2f331282441%2ffigure%2fdownload%2ffig3%2fAS%3a729118295478273%401550846756282%2fDeep-convolutional-generative-adversarial-networks-DCGAN-for-generative-model-of-BF-NSP.png&exph=305&expw=850&q=dcgan&simid=608001166798751611&ck=7DDD68D193DB873698266BE4653A6EEE&selectedindex=5&form=IRPRST&ajaxhist=0&first=1&scenario=ImageBasicHover'>
-<br>
 One of the most interesting parts of Generative Adversarial Networks is the design 
 of the Generator network. The Generator network is able to take random noise and map it 
 into images such that the discriminator cannot tell which images came from the dataset 
